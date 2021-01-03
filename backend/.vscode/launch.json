@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-LifestyleAppApplication<lifestyle-app>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.kiaracsmith.lifestyleapp.LifestyleAppApplication",
+            "projectName": "lifestyle-app",
+            "args": ""
+        }
+    ]
+}
